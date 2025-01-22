@@ -16,6 +16,6 @@ I created a helper function to calculate the sum of each index except one
 
 Since the problem explicitly warns about potential integer overflow, I used `long`
 
-i initialised two variables to track the results of the helper function
+I initialised two variables to track the results of the helper function
 
 This specification is not particular about time complexity and the input is only limited to 5 elements. However taking a different approach without nested for loops, like i have, will be more efficient for larger input arrays
