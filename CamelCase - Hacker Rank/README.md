@@ -14,8 +14,8 @@ Find a link to the full problem specification [here](https://www.hackerrank.com/
 
 ### My solution:
 
-I implemented this solution in python. Here's a brief overview of my approach:
+I implemented this solution in Python. Here's a brief overview of my approach:
 
 * I had helper functions to check if it was a string to be split or combined
-* In the split function, i converted all the charcters to lowercase and removed the parentheses if it's a method
-* In the cobine function if it's a method, I appended parentheses
+* In the split function, I converted all the characters to lowercase and removed the parentheses if it's a method
+* In the combine function if it's a method, I appended parentheses
