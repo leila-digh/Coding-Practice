@@ -10,3 +10,4 @@ Solutions to various coding problems I’ve worked on.
 4. [Breaking the Records - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Breaking%20the%20Records%20-%20Hacker%20Rank)
 5. [CamelCase - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/CamelCase%20-%20Hacker%20Rank)
 6. [Divisible Sum Pairs - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Divisible%20Sum%20Pairs%20-%20Hacker%20Rank)
+7. [Sparse Arrays - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Sparse%20Arrays%20-%20Hacker%20Rank)
