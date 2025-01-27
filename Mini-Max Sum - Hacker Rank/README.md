@@ -1,6 +1,6 @@
 ## HackerRank - Mini-Max Problem
 
-**Solved**: 21 Jan 2024
+**Solved**: 21 Jan 2025
 
 ### Problem:
 

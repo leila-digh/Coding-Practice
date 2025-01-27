@@ -1,8 +1,6 @@
 ## HackerRank - PlusMinus Problem
 
-**Solved**: 20 Jan 2024
-
-
+**Solved**: 20 Jan 2025
 
 ### Problem:
 
@@ -15,7 +13,6 @@ For example, for the array `[1, 1, 0, -1, -1]` , the ratios would be:
 * Zeroes: 1/5 = 0.20
 
 Find a link to the full problem specification [here](https://www.hackerrank.com/challenges/plus-minus/problem)
-
 
 ### My solution:
 

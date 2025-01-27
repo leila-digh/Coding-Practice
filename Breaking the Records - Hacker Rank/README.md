@@ -1,6 +1,6 @@
 ## HackerRank - Breaking the Records Problem
 
-**Solved**: 23 Jan 2024
+**Solved**: 23 Jan 2025
 
 ### Problem:
 

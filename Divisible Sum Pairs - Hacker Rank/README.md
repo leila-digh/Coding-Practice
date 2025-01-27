@@ -1,6 +1,6 @@
 ## HackerRank - Divisible Sum Pairs
 
-**Solved**: 25 Jan 2024
+**Solved**: 25 Jan 2025
 
 ### Problem:
 

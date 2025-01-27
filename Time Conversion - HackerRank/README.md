@@ -1,6 +1,6 @@
 ## HackerRank - Time Conversion
 
-**Solved**: 22 Jan 2024
+**Solved**: 22 Jan 2025
 
 ### Problem:
 

@@ -1,6 +1,6 @@
 ## HackerRank - CamelCase
 
-**Solved**: 24 Jan 2024
+**Solved**: 24 Jan 2025
 
 ### Problem:
 
