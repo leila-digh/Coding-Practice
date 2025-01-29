@@ -11,3 +11,5 @@ Solutions to various coding problems I’ve worked on.
 5. [CamelCase - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/CamelCase%20-%20Hacker%20Rank)
 6. [Divisible Sum Pairs - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Divisible%20Sum%20Pairs%20-%20Hacker%20Rank)
 7. [Sparse Arrays - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Sparse%20Arrays%20-%20Hacker%20Rank)
+8. Lonely Integer - Hacker Rank
+9. Grading Students - Hacker Rank
