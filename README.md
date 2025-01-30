@@ -13,3 +13,4 @@ Solutions to various coding problems I’ve worked on.
 7. [Sparse Arrays - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Sparse%20Arrays%20-%20Hacker%20Rank)
 8. [Lonely Integer - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Lonely%20Integer%20-%20HackerRank)
 9. [Grading Students - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Grading%20Students%20-%20HackerRank)
+10. Flipping Bits - Hacker Rank
