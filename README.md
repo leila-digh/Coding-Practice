@@ -15,4 +15,4 @@ Solutions to various coding problems I’ve worked on.
 9. [Grading Students - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Grading%20Students%20-%20HackerRank)
 10. [Flipping Bits - Hacker Rank](https://github.com/leila-digh/Coding-Practice/blob/main)
 11. [Diagonal Difference - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Diagonal%20Difference%20-%20Hacker%20Rank)
-12. Panagram - Hacker Rank
+12. [Panagram - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Panagram%20-%20Hacker%20Rank)

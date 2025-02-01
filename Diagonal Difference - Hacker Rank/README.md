@@ -1,4 +1,4 @@
-## HackerRank - CamelCase
+## HackerRank - Diagonal Difference
 
 **Solved**: 30 Jan 2025
 
