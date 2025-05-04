@@ -17,3 +17,7 @@ Solutions to various coding problems I’ve worked on.
 11. [Diagonal Difference - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Diagonal%20Difference%20-%20Hacker%20Rank)
 12. [Panagram - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Panagram%20-%20Hacker%20Rank)
 13. [Mars Exploration - Hacker Rank](https://github.com/leila-digh/Coding-Practice/tree/main/Mars%20Exploration%20-%20Hacker%20Rank)
+14. [010824- Daily Coding Problem](https://github.com/leila-digh/Coding-Practice/tree/main/010824%20-%20Daily%20Coding%20Problem)
+15. [020824 - Daily Coding Problem](https://github.com/leila-digh/Coding-Practice/tree/main/020824%20-%20Daily%20Coding%20Problem)
+16. [030824 - Daily Coding Problem](https://github.com/leila-digh/Coding-Practice/tree/main/030824%20-%20Daily%20Coding%20Problem)
+17. [040824 - Daily Coding Problem](https://github.com/leila-digh/Coding-Practice/tree/main/040824%20-%20Daily%20Coding%20Problem)
